@@ -1,0 +1,10 @@
+api_token: "your_cloudflare_api_token"
+zone_id: "your_zone_id"
+check_interval: 300
+domains:
+  - record_name: "xxx.abc.site"
+    proxied: true
+  - record_name: "zzz.abc.site"
+    proxied: false
+  - record_name: "yyy.abc.site"
+    proxied: true

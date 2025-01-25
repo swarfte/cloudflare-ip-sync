@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+config.yaml
+cloudflare_dns_update.log
+
+.idea
